@@ -44,14 +44,14 @@
     </scm>
     <repositories>
         <repository>
-            <id>repo.jenkins-ci.org</id>
-            <url>http://repo.jenkins-ci.org/public/</url>
+            <id>nexustest</id>
+            <url>http://nexus-nexussss.apps.as.lab/</url>
         </repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
-            <id>repo.jenkins-ci.org</id>
-            <url>http://repo.jenkins-ci.org/public/</url>
+            <id>nexustest</id>
+            <url>http://nexus-nexussss.apps.as.lab</url>
         </pluginRepository>
     </pluginRepositories>
     <dependencies>
